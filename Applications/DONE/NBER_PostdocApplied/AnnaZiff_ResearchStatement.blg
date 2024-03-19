@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AnnaZiff_ResearchStatement.aux
+The style file: chicago.bst
+Database file #1: AnnaZiff.bib
+Database file #2: TIF.bib
+Warning--no number and no volume in park_rental_2023
+Warning--page numbers missing in park_rental_2023
+Warning--no number and no volume in ziff_association_2023
+Warning--page numbers missing in ziff_association_2023
+You've used 2 entries,
+            2861 wiz_defined-function locations,
+            622 strings with 5314 characters,
+and the built_in function-call counts, 1342 in all, are:
+= -- 109
+> -- 113
+< -- 0
++ -- 34
+- -- 38
+* -- 121
+:= -- 255
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 15
+chr.to.int$ -- 2
+cite$ -- 6
+duplicate$ -- 32
+empty$ -- 69
+format.name$ -- 46
+if$ -- 243
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 20
+pop$ -- 9
+preamble$ -- 1
+purify$ -- 27
+quote$ -- 0
+skip$ -- 40
+stack$ -- 0
+substring$ -- 40
+swap$ -- 10
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 40
+warning$ -- 4
+while$ -- 16
+width$ -- 0
+write$ -- 28
+(There were 4 warnings)

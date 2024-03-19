@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AnnaZiff_ResearchStatement.aux
+The style file: chicago.bst
+Database file #1: AnnaZiff.bib
+Database file #2: TIF.bib
+Warning--no number and no volume in park_rental_2023
+Warning--page numbers missing in park_rental_2023
+Warning--no number and no volume in shea_unifying_2023
+Warning--page numbers missing in shea_unifying_2023
+Warning--no journal in vinnakota_levees_2023
+Warning--no number and no volume in vinnakota_levees_2023
+Warning--page numbers missing in vinnakota_levees_2023
+Warning--no number and no volume in ziff_local_2023
+Warning--page numbers missing in ziff_local_2023
+Warning--no number and no volume in ziff_association_2023
+Warning--page numbers missing in ziff_association_2023
+You've used 11 entries,
+            2861 wiz_defined-function locations,
+            669 strings with 6712 characters,
+and the built_in function-call counts, 7961 in all, are:
+= -- 655
+> -- 658
+< -- 0
++ -- 200
+- -- 228
+* -- 755
+:= -- 1474
+add.period$ -- 32
+call.type$ -- 11
+change.case$ -- 85
+chr.to.int$ -- 11
+cite$ -- 22
+duplicate$ -- 186
+empty$ -- 431
+format.name$ -- 264
+if$ -- 1449
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 11
+newline$ -- 57
+num.names$ -- 110
+pop$ -- 53
+preamble$ -- 1
+purify$ -- 151
+quote$ -- 0
+skip$ -- 213
+stack$ -- 0
+substring$ -- 364
+swap$ -- 59
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 220
+warning$ -- 11
+while$ -- 106
+width$ -- 0
+write$ -- 143
+(There were 11 warnings)
